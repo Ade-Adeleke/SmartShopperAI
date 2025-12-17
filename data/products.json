@@ -1,0 +1,299 @@
+[
+  {
+    "product_id": "PHONE-001",
+    "name": "iPhone 15 Pro",
+    "description": "Latest iPhone with titanium design, A17 Pro chip, and advanced camera system. Features 6.1-inch Super Retina XDR display, Action Button, and USB-C connectivity. Available in Natural Titanium, Blue Titanium, White Titanium, and Black Titanium.",
+    "price": 999.99,
+    "category": "Smartphones",
+    "stock_status": "in_stock",
+    "specifications": "6.1-inch display, A17 Pro chip, 128GB storage, Triple camera system"
+  },
+  {
+    "product_id": "PHONE-002",
+    "name": "Samsung Galaxy S24 Ultra",
+    "description": "Premium Android smartphone with S Pen, 200MP camera, and AI-powered features. 6.8-inch Dynamic AMOLED 2X display with 120Hz refresh rate. Built-in S Pen for productivity and creativity.",
+    "price": 1199.99,
+    "category": "Smartphones",
+    "stock_status": "in_stock",
+    "specifications": "6.8-inch display, Snapdragon 8 Gen 3, 256GB storage, 200MP main camera"
+  },
+  {
+    "product_id": "PHONE-003",
+    "name": "Google Pixel 8",
+    "description": "Google's flagship phone with advanced AI photography, pure Android experience, and Tensor G3 chip. Features Magic Eraser, Best Take, and Audio Magic Eraser for perfect photos and videos.",
+    "price": 699.99,
+    "category": "Smartphones",
+    "stock_status": "in_stock",
+    "specifications": "6.2-inch display, Tensor G3 chip, 128GB storage, Dual camera system"
+  },
+  {
+    "product_id": "LAPTOP-001",
+    "name": "MacBook Pro 14-inch M3",
+    "description": "Professional laptop with M3 chip, Liquid Retina XDR display, and all-day battery life. Perfect for creative professionals and developers. Features advanced thermal design and studio-quality mics.",
+    "price": 1599.99,
+    "category": "Laptops",
+    "stock_status": "in_stock",
+    "specifications": "14-inch Liquid Retina XDR, M3 chip, 8GB RAM, 512GB SSD"
+  },
+  {
+    "product_id": "LAPTOP-002",
+    "name": "Dell XPS 13 Plus",
+    "description": "Ultra-thin laptop with 13.4-inch InfinityEdge display, 12th Gen Intel processors, and premium design. Features haptic touchpad and capacitive function row for modern computing experience.",
+    "price": 1299.99,
+    "category": "Laptops",
+    "stock_status": "in_stock",
+    "specifications": "13.4-inch display, Intel i7-1280P, 16GB RAM, 512GB SSD"
+  },
+  {
+    "product_id": "LAPTOP-003",
+    "name": "ASUS ROG Zephyrus G14",
+    "description": "Gaming laptop with AMD Ryzen 9 processor, NVIDIA RTX 4060 graphics, and AniMe Matrix LED display. Compact 14-inch form factor with powerful performance for gaming and content creation.",
+    "price": 1499.99,
+    "category": "Laptops",
+    "stock_status": "low_stock",
+    "specifications": "14-inch QHD display, AMD Ryzen 9 7940HS, 16GB RAM, RTX 4060"
+  },
+  {
+    "product_id": "LAPTOP-004",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "description": "Business ultrabook with legendary ThinkPad reliability, 14-inch display, and enterprise security features. Ultra-lightweight carbon fiber construction with military-grade durability testing.",
+    "price": 1399.99,
+    "category": "Laptops",
+    "stock_status": "in_stock",
+    "specifications": "14-inch WUXGA, Intel i7-1365U, 16GB RAM, 512GB SSD"
+  },
+  {
+    "product_id": "TABLET-001",
+    "name": "iPad Pro 12.9-inch M2",
+    "description": "Most advanced iPad with M2 chip, Liquid Retina XDR display, and support for Apple Pencil 2nd generation. Perfect for professional creative work, note-taking, and entertainment.",
+    "price": 1099.99,
+    "category": "Tablets",
+    "stock_status": "in_stock",
+    "specifications": "12.9-inch Liquid Retina XDR, M2 chip, 128GB storage, Wi-Fi 6E"
+  },
+  {
+    "product_id": "TABLET-002",
+    "name": "Samsung Galaxy Tab S9+",
+    "description": "Premium Android tablet with S Pen included, 12.4-inch Dynamic AMOLED 2X display, and DeX mode for desktop-like productivity. Water-resistant design with all-day battery life.",
+    "price": 899.99,
+    "category": "Tablets",
+    "stock_status": "in_stock",
+    "specifications": "12.4-inch display, Snapdragon 8 Gen 2, 256GB storage, S Pen included"
+  },
+  {
+    "product_id": "HEADPHONES-001",
+    "name": "AirPods Pro 2nd Generation",
+    "description": "Premium wireless earbuds with Active Noise Cancellation, Spatial Audio, and Adaptive Transparency. Features H2 chip for enhanced audio quality and longer battery life with MagSafe charging case.",
+    "price": 249.99,
+    "category": "Audio",
+    "stock_status": "in_stock",
+    "specifications": "Active Noise Cancellation, H2 chip, 6 hours playback, MagSafe case"
+  },
+  {
+    "product_id": "HEADPHONES-002",
+    "name": "Sony WH-1000XM5",
+    "description": "Industry-leading noise canceling headphones with exceptional sound quality, 30-hour battery life, and premium comfort. Features Speak-to-Chat technology and multipoint connection.",
+    "price": 399.99,
+    "category": "Audio",
+    "stock_status": "in_stock",
+    "specifications": "Noise canceling, 30-hour battery, Bluetooth 5.2, Quick Charge"
+  },
+  {
+    "product_id": "HEADPHONES-003",
+    "name": "Bose QuietComfort 45",
+    "description": "Comfortable over-ear headphones with world-class noise cancellation and balanced sound. Features TriPort acoustic architecture and up to 24 hours of battery life.",
+    "price": 329.99,
+    "category": "Audio",
+    "stock_status": "in_stock",
+    "specifications": "Noise canceling, 24-hour battery, Bluetooth 5.1, Lightweight design"
+  },
+  {
+    "product_id": "WATCH-001",
+    "name": "Apple Watch Series 9 45mm",
+    "description": "Most advanced Apple Watch with S9 chip, Double Tap gesture, and Precision Finding for iPhone. Features Always-On Retina display, ECG app, and comprehensive health tracking.",
+    "price": 429.99,
+    "category": "Wearables",
+    "stock_status": "in_stock",
+    "specifications": "45mm case, S9 chip, GPS + Cellular, Always-On Retina display"
+  },
+  {
+    "product_id": "WATCH-002",
+    "name": "Samsung Galaxy Watch6 Classic",
+    "description": "Premium smartwatch with rotating bezel, comprehensive health monitoring, and Wear OS powered by Samsung. Features sleep coaching, body composition analysis, and GPS tracking.",
+    "price": 399.99,
+    "category": "Wearables",
+    "stock_status": "in_stock",
+    "specifications": "43mm case, Exynos W930, Wear OS, Rotating bezel, GPS"
+  },
+  {
+    "product_id": "CAMERA-001",
+    "name": "Canon EOS R6 Mark II",
+    "description": "Full-frame mirrorless camera with 24.2MP sensor, advanced autofocus, and 4K video recording. Perfect for professional photography and videography with in-body image stabilization.",
+    "price": 2499.99,
+    "category": "Cameras",
+    "stock_status": "in_stock",
+    "specifications": "24.2MP full-frame, DIGIC X processor, 4K video, In-body IS"
+  },
+  {
+    "product_id": "CAMERA-002",
+    "name": "Sony Alpha a7 IV",
+    "description": "Versatile full-frame camera with 33MP resolution, real-time tracking autofocus, and 4K 60p video. Ideal for both photography and videography with advanced image processing.",
+    "price": 2199.99,
+    "category": "Cameras",
+    "stock_status": "low_stock",
+    "specifications": "33MP full-frame, BIONZ XR processor, 4K 60p video, Real-time tracking"
+  },
+  {
+    "product_id": "GAMING-001",
+    "name": "PlayStation 5",
+    "description": "Next-generation gaming console with custom SSD, 3D audio, and DualSense controller with haptic feedback. Experience lightning-fast loading and immersive gaming with ray tracing support.",
+    "price": 499.99,
+    "category": "Gaming",
+    "stock_status": "low_stock",
+    "specifications": "Custom AMD Zen 2 CPU, RDNA 2 GPU, 825GB SSD, 4K gaming"
+  },
+  {
+    "product_id": "GAMING-002",
+    "name": "Xbox Series X",
+    "description": "Most powerful Xbox ever with 12 teraflops of processing power, 4K gaming, and Quick Resume feature. Backward compatible with thousands of games across four generations of Xbox.",
+    "price": 499.99,
+    "category": "Gaming",
+    "stock_status": "in_stock",
+    "specifications": "Custom AMD Zen 2 CPU, RDNA 2 GPU, 1TB SSD, 4K 120fps gaming"
+  },
+  {
+    "product_id": "GAMING-003",
+    "name": "Nintendo Switch OLED",
+    "description": "Handheld gaming console with vibrant 7-inch OLED screen, enhanced audio, and versatile play modes. Play at home on TV or on-the-go with the same great Nintendo games.",
+    "price": 349.99,
+    "category": "Gaming",
+    "stock_status": "in_stock",
+    "specifications": "7-inch OLED display, Custom NVIDIA Tegra, 64GB storage, Detachable Joy-Con"
+  },
+  {
+    "product_id": "MONITOR-001",
+    "name": "LG 27UP850-W 4K Monitor",
+    "description": "27-inch 4K UHD monitor with USB-C connectivity, HDR10 support, and 99% sRGB color gamut. Perfect for creative professionals with height-adjustable stand and multiple ports.",
+    "price": 449.99,
+    "category": "Monitors",
+    "stock_status": "in_stock",
+    "specifications": "27-inch 4K UHD, IPS panel, USB-C 96W, HDR10, Height adjustable"
+  },
+  {
+    "product_id": "MONITOR-002",
+    "name": "ASUS ProArt PA278QV",
+    "description": "Professional 27-inch monitor with 100% sRGB and Rec. 709 color accuracy, factory calibration, and ergonomic design. Ideal for photo editing, graphic design, and content creation.",
+    "price": 329.99,
+    "category": "Monitors",
+    "stock_status": "in_stock",
+    "specifications": "27-inch WQHD, IPS panel, 100% sRGB, Factory calibrated, Ergonomic stand"
+  },
+  {
+    "product_id": "KEYBOARD-001",
+    "name": "Logitech MX Keys",
+    "description": "Advanced wireless keyboard with smart illumination, perfect key stability, and multi-device connectivity. Features spherically-dished keys and smart backlighting that adjusts to conditions.",
+    "price": 99.99,
+    "category": "Accessories",
+    "stock_status": "in_stock",
+    "specifications": "Wireless, Backlit keys, Multi-device, USB-C charging, 10-day battery"
+  },
+  {
+    "product_id": "MOUSE-001",
+    "name": "Logitech MX Master 3S",
+    "description": "Advanced wireless mouse with ultra-precise scrolling, customizable buttons, and ergonomic design. Features Darkfield tracking technology and works on virtually any surface.",
+    "price": 99.99,
+    "category": "Accessories",
+    "stock_status": "in_stock",
+    "specifications": "Wireless, 8K DPI sensor, Darkfield tracking, USB-C charging, Multi-device"
+  },
+  {
+    "product_id": "SPEAKER-001",
+    "name": "Sonos One Gen 2",
+    "description": "Smart speaker with rich, room-filling sound, built-in Alexa and Google Assistant, and AirPlay 2 support. Features Trueplay tuning technology for optimized sound in any room.",
+    "price": 219.99,
+    "category": "Audio",
+    "stock_status": "in_stock",
+    "specifications": "Wi-Fi enabled, Voice control, AirPlay 2, Trueplay tuning, Multi-room audio"
+  },
+  {
+    "product_id": "SPEAKER-002",
+    "name": "JBL Charge 5",
+    "description": "Portable Bluetooth speaker with powerful sound, IP67 waterproof rating, and built-in power bank. Features JBL Pro Sound with optimized long excursion driver and dual JBL bass radiators.",
+    "price": 149.99,
+    "category": "Audio",
+    "stock_status": "in_stock",
+    "specifications": "Bluetooth 5.1, IP67 waterproof, 20-hour battery, Power bank function"
+  },
+  {
+    "product_id": "STORAGE-001",
+    "name": "Samsung T7 Portable SSD 1TB",
+    "description": "Ultra-fast portable SSD with USB 3.2 Gen 2 interface, delivering up to 1,050 MB/s transfer speeds. Compact, lightweight design with password protection and AES 256-bit hardware encryption.",
+    "price": 129.99,
+    "category": "Storage",
+    "stock_status": "in_stock",
+    "specifications": "1TB capacity, USB 3.2 Gen 2, 1,050 MB/s speed, Hardware encryption"
+  },
+  {
+    "product_id": "STORAGE-002",
+    "name": "WD My Passport 4TB",
+    "description": "Portable hard drive with automatic backup software, password protection, and hardware encryption. Compact design with USB 3.0 connectivity for reliable storage on-the-go.",
+    "price": 109.99,
+    "category": "Storage",
+    "stock_status": "in_stock",
+    "specifications": "4TB capacity, USB 3.0, Hardware encryption, Automatic backup software"
+  },
+  {
+    "product_id": "CHARGER-001",
+    "name": "Anker PowerCore 10000 PD",
+    "description": "Compact power bank with 10,000mAh capacity, Power Delivery fast charging, and PowerIQ technology. Features USB-C and USB-A ports for charging multiple devices simultaneously.",
+    "price": 49.99,
+    "category": "Accessories",
+    "stock_status": "in_stock",
+    "specifications": "10,000mAh capacity, Power Delivery, USB-C + USB-A, PowerIQ technology"
+  },
+  {
+    "product_id": "CHARGER-002",
+    "name": "Apple MagSafe Charger",
+    "description": "Wireless charger designed for iPhone 12 and later models with magnetic alignment for optimal charging efficiency. Provides up to 15W of wireless charging power with compatible devices.",
+    "price": 39.99,
+    "category": "Accessories",
+    "stock_status": "in_stock",
+    "specifications": "Magnetic alignment, 15W wireless charging, USB-C cable, iPhone 12+ compatible"
+  },
+  {
+    "product_id": "CASE-001",
+    "name": "Peak Design Everyday Backpack 20L",
+    "description": "Professional camera and laptop backpack with weatherproof construction, customizable internal dividers, and side access. Perfect for photographers and creative professionals on-the-go.",
+    "price": 259.99,
+    "category": "Accessories",
+    "stock_status": "in_stock",
+    "specifications": "20L capacity, Weatherproof, Customizable dividers, Side access, Laptop compartment"
+  },
+  {
+    "product_id": "FITNESS-001",
+    "name": "Fitbit Charge 6",
+    "description": "Advanced fitness tracker with built-in GPS, heart rate monitoring, and Google apps integration. Features 6+ day battery life, sleep tracking, and 40+ exercise modes for comprehensive health monitoring.",
+    "price": 159.99,
+    "category": "Wearables",
+    "stock_status": "in_stock",
+    "specifications": "Built-in GPS, Heart rate monitor, 6-day battery, 40+ exercise modes, Google Pay"
+  },
+  {
+    "product_id": "HOME-001",
+    "name": "Nest Thermostat",
+    "description": "Smart thermostat that learns your schedule and preferences to help save energy. Features remote control via smartphone app, energy history, and compatibility with most heating and cooling systems.",
+    "price": 129.99,
+    "category": "Smart Home",
+    "stock_status": "in_stock",
+    "specifications": "Learning algorithm, Remote control, Energy saving, HVAC compatible, Google Assistant"
+  },
+  {
+    "product_id": "HOME-002",
+    "name": "Philips Hue White and Color Starter Kit",
+    "description": "Smart lighting system with millions of colors, dimming capabilities, and voice control compatibility. Includes 3 bulbs and Hue Bridge for creating the perfect ambiance in any room.",
+    "price": 199.99,
+    "category": "Smart Home",
+    "stock_status": "in_stock",
+    "specifications": "16 million colors, Voice control, Dimming, 3 bulbs + Bridge, App control"
+  }
+]
