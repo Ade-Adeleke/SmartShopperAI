@@ -70,8 +70,8 @@ A production-ready dual-agent conversational e-commerce system that combines RAG
 
 1. **Clone and Setup**:
    ```bash
-   git clone <repository-url>
-   cd product_ai_project
+   git clone https://github.com/Ade-Adeleke/SmartShopperAI.git
+   cd SmartShopperAI
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install -r requirements.txt

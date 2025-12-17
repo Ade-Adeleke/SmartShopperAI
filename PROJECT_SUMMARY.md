@@ -186,12 +186,10 @@ The system demonstrates **industry-standard AI engineering practices** used by c
 ## 🔗 Quick Start
 
 ```bash
-git clone <repository>
-cd product_ai_project
+git clone https://github.com/Ade-Adeleke/SmartShopperAI.git
+cd SmartShopperAI
 pip install -r requirements.txt
 export OPENAI_API_KEY=your-key
 python -m src.initialize_vector_store --products-file data/products.json
 python -m src.chatbot --interactive
 ```
-
-**The future of conversational commerce starts here.** 🚀

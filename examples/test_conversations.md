@@ -226,7 +226,7 @@ To run these test scenarios manually:
 
 1. **Setup Environment**:
    ```bash
-   cd /Users/king/product_ai_project
+   cd SmartShopperAI
    python -m venv venv
    source venv/bin/activate
    pip install -r requirements.txt
